@@ -38,11 +38,8 @@
 ```yaml
 Name      : Suryansh Kishor
 Role      : Cybersecurity Researcher | AI/ML Developer | Full-Stack Engineer
-Location  : Bhubaneswar, Odisha, India 🇮🇳
-Education : B.Tech CS — IoT, Cyber Security & Blockchain @ C.V. Raman Global University
-CGPA      : 8.93 / 10.0
 Published : Springer — ICCDC 2025 (Liver Tumor Detection using CNN + XGBoost)
-Status    : Seeking Internships & Research Collaborations
+Status    : Seeking Internships, Job & Research Collaborations
 ```
 
 ```bash
@@ -281,7 +278,7 @@ Status    : Seeking Internships & Research Collaborations
 <br/>
 
 ![Phone](https://img.shields.io/badge/📱+91%209430390565-00ffcc?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍Bhubaneswar%2C%20India-00ffcc?style=for-the-badge&labelColor=0d1117)
+<!--![Location](https://img.shields.io/badge/📍Bhubaneswar%2C%20India-00ffcc?style=for-the-badge&labelColor=0d1117) -->
 
 </div>
 
