@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&multiline=false&width=750&lines=%5B*%5D+Initializing+Suryansh.exe...;%5B%2B%5D+Status%3A+Cyber+Security+%26+AI+Researcher;%5B%2B%5D+Mission%3A+Build+Secure+%26+Intelligent+Systems;%5B%2B%5D+Published+Researcher+%40+Springer+%7C+ICCDC+2025;%5B%2B%5D+B.Tech+CS+%7C+IoT+%26+Cyber+Security+%7C+Blockchain;%5B%2B%5D+CGPA%3A+8.93+%7C+C.V.+Raman+Global+University;%5B*%5D+Root+Access+Granted...+%F0%9F%94%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&multiline=false&width=750&lines=%5B*%5D+Initializing+Suryansh.exe...;%5B%2B%5D+Status%3A+Cyber+Security+%26+AI+Researcher;%5B%2B%5D+Mission%3A+Build+Secure+%26+Intelligent+Systems;%5B%2B%5D+Published+Researcher+%40+Springer+%7C+ICCDC+2025;%5B%2B%5D+B.Tech+CS+%7C+IoT+%26+Cyber+Security+%7C+Blockchain;%5B%2B%5D+Root+Access+Granted...+%F0%9F%94%93" alt="Typing SVG" />
 </div>
 
 <br/>
